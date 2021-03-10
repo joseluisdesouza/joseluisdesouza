@@ -1,6 +1,6 @@
 ### Hi there 👋
 <a href="https://www.linkedin.com/in/jos%C3%A9-souza-483a89191/">
-<img align="right" alt="LinkedIn" src="https://www.linkedin.com/in/jos%C3%A9-souza-483a89191/"/>
+<img align="right" alt="LinkedIn" src="https://img.shields.io/badge/-Jose%20Souza-blue"/>
 </a>
 
 <a href="mailto:joseluisdesouzaa@gmail.com">
