@@ -1,9 +1,9 @@
 ### Hi there 👋
-<a href="https://www.linkedin.com/in/p%C3%A2mela-costa-177bb41b3/">
+<a href="https://www.linkedin.com/in/jos%C3%A9-souza-483a89191/">
 <img align="right" alt="LinkedIn" src="https://www.linkedin.com/in/jos%C3%A9-souza-483a89191/"/>
 </a>
 
-<a href="mailto:joseluisdesouzaav@gmail.com">
+<a href="mailto:joseluisdesouzaa@gmail.com">
 <img align="right" alt="E-mail" src="https://img.shields.io/badge/-How%20to%20reach%20me-red"/>
 </a>
 
