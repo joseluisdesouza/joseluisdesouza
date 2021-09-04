@@ -11,7 +11,7 @@
 
 
 
-- 🚀 I am currently working as a Java developer on the South System
+- 🚀 I am currently working as a Java developer on the Soft Expert
 
 - 💻 I am currently learning ... Java, Spring Boot, PostgreSQL
 
